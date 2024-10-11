@@ -1,0 +1,14 @@
+{
+  "name": "countries-app",
+  "version": "1.0.0",
+  "description": "- App created with  This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "start:client": "npm start --prefix client",
+    "start:server": "npm start --prefix server",
+    "install:client": "npm install --prefix client",
+    "install:server": "npm install --prefix server"
+  },
+  "author": "izabepletsch",
+  "license": "ISC"
+}
